@@ -6,6 +6,12 @@ import lombok.Setter;
 
 import java.util.List;
 
+/**
+ * name - имя аэропорта
+ * boards - список бортов
+ * x, y - координаты аэропорта
+ */
+
 @Getter
 @Setter
 @EqualsAndHashCode

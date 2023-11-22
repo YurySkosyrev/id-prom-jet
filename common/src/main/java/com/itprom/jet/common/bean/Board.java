@@ -5,6 +5,17 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * route - маршрут по которому идёт самолет
+ * busy - занят борт или нет
+ * x, y - координаты борта
+ * angle - повороты на UI
+ *
+ * noBusy() - метод пригодится для lambda-expressions или method-reference
+ *
+ * calculatePosition() - вычисление положения точки с помощью линейной кривой Безье
+ */
+
 @Getter
 @Setter
 @EqualsAndHashCode

@@ -5,6 +5,12 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ *
+ * Отрезок маршрута
+ *
+ */
+
 @Getter
 @Setter
 @EqualsAndHashCode
