@@ -4,6 +4,11 @@ import com.itprom.jet.common.bean.Source;
 import com.itprom.jet.common.bean.Type;
 import lombok.NoArgsConstructor;
 
+/**
+ * getCode() - для понимания налету, какой обработчик необходимо
+ * использовать для обработки сообщения
+ */
+
 @NoArgsConstructor
 public class Message {
 

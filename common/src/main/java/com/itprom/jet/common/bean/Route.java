@@ -8,6 +8,14 @@ import lombok.Setter;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Маршрут
+ *
+ * boardName - какому борту назначен маршрут
+ *
+ * notAssigned() - назначен ли маршрут какому-либо борту
+ */
+
 @Getter
 @Setter
 @EqualsAndHashCode

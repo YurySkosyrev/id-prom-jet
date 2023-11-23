@@ -5,6 +5,10 @@ import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
+/**
+ * Точка маршрута
+ */
+
 @Getter
 @Setter
 @NoArgsConstructor
